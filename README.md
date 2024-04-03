@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Absar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absar-qadri&label=Profile%20views&color=0e75b6&style=flat" alt="absar-qadri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absar-qadri" alt="absar-qadri" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, NextJS, Firebase**
 
 - 📫 How to reach me **absarqadri97@gmail.com**
@@ -24,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absar-qadri&show_icons=true&locale=en" alt="absar-qadri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absar-qadri&" alt="absar-qadri" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absar-qadri&label=Profile%20views&color=0e75b6&style=flat" alt="absar-qadri" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absar-qadri" alt="absar-qadri" /></a> </p>
