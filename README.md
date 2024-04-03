@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **absarqadri97@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/syed-absar-qadri-83321823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-absar-qadri-83321823b" height="30" width="40" /></a>
 <a href="https://instagram.com/syedabsarqadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedabsarqadri" height="30" width="40" /></a>
