@@ -1,3 +1,6 @@
+
+
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://absar.io)
 # <h1 align="center">Hi <img src="img/wave.webp" width="30px">, I'm Absar</h1>
 :
 🌱 I’m currently learning ReactJS, NextJS, FireBase<br>💬 Ask me about JavaScript, React.<br>⚡ Fun fact A snail can sleep for three years, you can too!!
@@ -5,8 +8,6 @@
 
 ## 🌐 Socials:
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
-)]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedabsarqadri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-absar-qadri-83321823b) 
 
 # 💻 Tech Stack:
