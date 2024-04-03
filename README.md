@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="img/PIC.webp"/>
 
+
 - 🌱 I’m currently learning **ReactJS, NextJS, Firebase**
 
 - 📫 How to reach me **absarqadri97@gmail.com**
