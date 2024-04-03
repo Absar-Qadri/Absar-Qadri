@@ -3,7 +3,7 @@
 # <h1 align="center">Hi <img src="img/wave.webp" width="30px">, I'm Absar</h1>
 
 🌱 I’m currently learning ReactJS, NextJS, FireBase<br>💬 Ask me about JavaScript, React.<br>⚡ Fun fact A snail can sleep for three years, you can too!!
-## <img align="right" alt="Coding"  width="400" src="img/sideEmoji.webp">
+ <img align="right" alt="Coding"  width="400" src="img/sideEmoji.webp">
 
 
 # 🌐 Socials:
