@@ -3,7 +3,7 @@
 # <h1 align="center">Hi <img src="img/wave.webp" width="30px">, I'm Absar</h1>
 
 🌱 I’m currently learning ReactJS, NextJS, FireBase<br>💬 Ask me about JavaScript, React.<br>⚡ Fun fact A snail can sleep for three years, you can too!!
-<img align="right" alt="Coding" width="400" src="img/sideEmoji.webp" style="z-index: 1000;">
+
 
 
 
@@ -20,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Absar-Qadri&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Absar-Qadri&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absar-Qadri&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" alt="Coding" width="400" src="img/sideEmoji.webp">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
