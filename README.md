@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning ReactJS, NextJS, FireBase<br>💬 Ask me about JavaScript, React.<br>⚡ Fun fact A snail can sleep for three years, you can too!!
 
-<img align="right" alt="Coding" height="100" width="400" src="img/sideEmoji.webp">
+<img align="right" alt="Coding" height="100" width="100" src="img/sideEmoji.webp">
 
 ## 🌐 Socials:
 
