@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="img/wave.webp" width="30px">, I'm Absar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="img/Pic.webp"/>
+<img align="right" alt="Coding" width="400" src="img/wave.webp"/>
 
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Firebase**
