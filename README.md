@@ -1,5 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://absar.io)
 # <h1 align="center">Hi <img src="img/wave.webp" width="30px">, I'm Absar</h1>
+
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://absar.io)
 
 <img align="right" alt="Coding" height="200" width="200" src="img/sideEmoji.webp">
 🌱 I’m currently learning ReactJS, NextJS, FireBase<br>💬 Ask me about JavaScript, React.<br>⚡ Fun fact A snail can sleep for three years, you can too!!
